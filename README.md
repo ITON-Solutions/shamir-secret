@@ -1,2 +1,2 @@
 # Shamir secret sharing
-Shamir secret sharing SLIP-0093
+Shamir´s secret sharing for mnemonics SLIP-0093
